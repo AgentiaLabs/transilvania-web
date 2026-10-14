@@ -23,7 +23,7 @@ window.TRANSILVANIA_CONFIG = {
   // Redes oficiales (vacías = no se muestran)
   social: {
     instagram: "https://www.instagram.com/transilvania.halloweenfest/",
-    facebook: "https://www.facebook.com/Transilvania.Halloween",
+    facebook: "", // retirado a petición del cliente
     whatsapp: "https://wa.me/522226614367",
     tiktok: "",
     youtube: "",
